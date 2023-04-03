@@ -3,6 +3,12 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+### Step 1: 
+run `bundle` to install all the gems in the Gemfile
+
+### Step 2
+run `rails s` to run the app. The app can be viewed in `http://127.0.0.1:3000`
+
 Things you may want to cover:
 
 * Ruby version
